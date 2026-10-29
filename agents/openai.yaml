@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medical Review Editor"
+  short_description: "Preserve meaning in medical review editing"
+  default_prompt: "Use $medical-review-editor to edit an authorized medical review passage while protecting its reasoning, claim strength, terminology, and citations."
